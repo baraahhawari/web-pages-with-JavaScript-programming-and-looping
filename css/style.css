@@ -3,14 +3,19 @@ body{
     background-size: cover;
     margin: 0;
     padding: 0;
-    background-repeat: no-repeat;
-}
+    background-repeat: no-repeat;}
 
 h1 {
-    margin: 50px 0 0 50px;
-    height: 175px;
     background-image: url("../images/constructive-logo.gif");
     background-repeat: no-repeat;
-    text-indent: -9999px;
-    border-left: 1px solid #bcbdc0;
-    border-right: 1px solid #bcbdc0;}
+    margin: 100px 0 0 100px;
+    height: 200px;}
+
+p , h2{
+    width: 320px;
+    margin: -50px 0 0 100px;
+    padding: 30px 0 30px 0;
+    font-weight: bolder;
+    background-color: #fff;
+    text-align: center;
+}
